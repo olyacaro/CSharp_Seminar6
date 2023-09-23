@@ -1,0 +1,14 @@
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task22/bin/Debug/net7.0/Task22
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task22/bin/Debug/net7.0/Task22.deps.json
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task22/bin/Debug/net7.0/Task22.runtimeconfig.json
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task22/bin/Debug/net7.0/Task22.dll
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task22/bin/Debug/net7.0/Task22.pdb
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task22/obj/Debug/net7.0/Task22.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task22/obj/Debug/net7.0/Task22.AssemblyInfoInputs.cache
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task22/obj/Debug/net7.0/Task22.AssemblyInfo.cs
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task22/obj/Debug/net7.0/Task22.csproj.CoreCompileInputs.cache
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task22/obj/Debug/net7.0/Task22.dll
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task22/obj/Debug/net7.0/refint/Task22.dll
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task22/obj/Debug/net7.0/Task22.pdb
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task22/obj/Debug/net7.0/Task22.genruntimeconfig.cache
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task22/obj/Debug/net7.0/ref/Task22.dll

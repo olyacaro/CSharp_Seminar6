@@ -21,4 +21,4 @@ int numY = numY2 - numY1;
 double distance = Math.Sqrt(Math.Pow(numX, 2) + Math.Pow(numY, 2));
 
 Console.WriteLine(distance);
-//Console.WriteLine(Math.Round(distance,2)); округляет координаты до сотых.
+//Console.WriteLine(Math.Round(distance,2)); округляет координаты до
