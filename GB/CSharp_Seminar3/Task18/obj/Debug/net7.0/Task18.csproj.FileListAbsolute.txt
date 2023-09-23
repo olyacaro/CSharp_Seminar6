@@ -1,0 +1,14 @@
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task18/bin/Debug/net7.0/Task18
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task18/bin/Debug/net7.0/Task18.deps.json
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task18/bin/Debug/net7.0/Task18.runtimeconfig.json
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task18/bin/Debug/net7.0/Task18.dll
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task18/bin/Debug/net7.0/Task18.pdb
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task18/obj/Debug/net7.0/Task18.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task18/obj/Debug/net7.0/Task18.AssemblyInfoInputs.cache
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task18/obj/Debug/net7.0/Task18.AssemblyInfo.cs
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task18/obj/Debug/net7.0/Task18.csproj.CoreCompileInputs.cache
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task18/obj/Debug/net7.0/Task18.dll
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task18/obj/Debug/net7.0/refint/Task18.dll
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task18/obj/Debug/net7.0/Task18.pdb
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task18/obj/Debug/net7.0/Task18.genruntimeconfig.cache
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task18/obj/Debug/net7.0/ref/Task18.dll
