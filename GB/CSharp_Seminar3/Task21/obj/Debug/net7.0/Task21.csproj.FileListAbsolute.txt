@@ -1,0 +1,14 @@
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task21/bin/Debug/net7.0/Task21
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task21/bin/Debug/net7.0/Task21.deps.json
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task21/bin/Debug/net7.0/Task21.runtimeconfig.json
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task21/bin/Debug/net7.0/Task21.dll
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task21/bin/Debug/net7.0/Task21.pdb
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task21/obj/Debug/net7.0/Task21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task21/obj/Debug/net7.0/Task21.AssemblyInfoInputs.cache
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task21/obj/Debug/net7.0/Task21.AssemblyInfo.cs
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task21/obj/Debug/net7.0/Task21.csproj.CoreCompileInputs.cache
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task21/obj/Debug/net7.0/Task21.dll
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task21/obj/Debug/net7.0/refint/Task21.dll
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task21/obj/Debug/net7.0/Task21.pdb
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task21/obj/Debug/net7.0/Task21.genruntimeconfig.cache
+/Users/vheyer/Documents/GB/CSharp_Seminar3/Task21/obj/Debug/net7.0/ref/Task21.dll
