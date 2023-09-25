@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Task_Array
-build_property.ProjectDir = /Users/vheyer/Documents/GB/CSharp_Seminar4/Task 30/
+build_property.RootNamespace = Task25
+build_property.ProjectDir = /Users/vheyer/Documents/GB/CSharp_Sem4_ДЗ/Task25/

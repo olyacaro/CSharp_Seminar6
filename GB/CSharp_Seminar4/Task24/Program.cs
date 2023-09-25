@@ -6,7 +6,6 @@
 */
 
 //Получаем число от юзера далее принимаем от юзира стрингу и парсим стрингу и возвращаем наш int.
-using System.ComponentModel.DataAnnotations;
 
 int GetNumber(string message)
 {
