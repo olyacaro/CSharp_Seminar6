@@ -1,0 +1,14 @@
+/Users/vheyer/Documents/GB/CSharp_Sem4_ДЗ/Task27/bin/Debug/net7.0/Task27
+/Users/vheyer/Documents/GB/CSharp_Sem4_ДЗ/Task27/bin/Debug/net7.0/Task27.deps.json
+/Users/vheyer/Documents/GB/CSharp_Sem4_ДЗ/Task27/bin/Debug/net7.0/Task27.runtimeconfig.json
+/Users/vheyer/Documents/GB/CSharp_Sem4_ДЗ/Task27/bin/Debug/net7.0/Task27.dll
+/Users/vheyer/Documents/GB/CSharp_Sem4_ДЗ/Task27/bin/Debug/net7.0/Task27.pdb
+/Users/vheyer/Documents/GB/CSharp_Sem4_ДЗ/Task27/obj/Debug/net7.0/Task27.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vheyer/Documents/GB/CSharp_Sem4_ДЗ/Task27/obj/Debug/net7.0/Task27.AssemblyInfoInputs.cache
+/Users/vheyer/Documents/GB/CSharp_Sem4_ДЗ/Task27/obj/Debug/net7.0/Task27.AssemblyInfo.cs
+/Users/vheyer/Documents/GB/CSharp_Sem4_ДЗ/Task27/obj/Debug/net7.0/Task27.csproj.CoreCompileInputs.cache
+/Users/vheyer/Documents/GB/CSharp_Sem4_ДЗ/Task27/obj/Debug/net7.0/Task27.dll
+/Users/vheyer/Documents/GB/CSharp_Sem4_ДЗ/Task27/obj/Debug/net7.0/refint/Task27.dll
+/Users/vheyer/Documents/GB/CSharp_Sem4_ДЗ/Task27/obj/Debug/net7.0/Task27.pdb
+/Users/vheyer/Documents/GB/CSharp_Sem4_ДЗ/Task27/obj/Debug/net7.0/Task27.genruntimeconfig.cache
+/Users/vheyer/Documents/GB/CSharp_Sem4_ДЗ/Task27/obj/Debug/net7.0/ref/Task27.dll
