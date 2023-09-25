@@ -10,7 +10,7 @@ int[] getRandomArray(int length = 8)
     
     for(int i = 0; i < binary.Length; i++)
     {
-        binary[i] = new Random().Next(0,2);
+        binary[i] = new Random().Next(2);
     }
     return binary;
 }
