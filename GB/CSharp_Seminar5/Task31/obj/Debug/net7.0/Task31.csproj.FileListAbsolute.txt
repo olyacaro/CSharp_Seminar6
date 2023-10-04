@@ -1,0 +1,14 @@
+/Users/vheyer/Documents/GB/CSharp_Seminar5/Task31/bin/Debug/net7.0/Task31
+/Users/vheyer/Documents/GB/CSharp_Seminar5/Task31/bin/Debug/net7.0/Task31.deps.json
+/Users/vheyer/Documents/GB/CSharp_Seminar5/Task31/bin/Debug/net7.0/Task31.runtimeconfig.json
+/Users/vheyer/Documents/GB/CSharp_Seminar5/Task31/bin/Debug/net7.0/Task31.dll
+/Users/vheyer/Documents/GB/CSharp_Seminar5/Task31/bin/Debug/net7.0/Task31.pdb
+/Users/vheyer/Documents/GB/CSharp_Seminar5/Task31/obj/Debug/net7.0/Task31.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vheyer/Documents/GB/CSharp_Seminar5/Task31/obj/Debug/net7.0/Task31.AssemblyInfoInputs.cache
+/Users/vheyer/Documents/GB/CSharp_Seminar5/Task31/obj/Debug/net7.0/Task31.AssemblyInfo.cs
+/Users/vheyer/Documents/GB/CSharp_Seminar5/Task31/obj/Debug/net7.0/Task31.csproj.CoreCompileInputs.cache
+/Users/vheyer/Documents/GB/CSharp_Seminar5/Task31/obj/Debug/net7.0/Task31.dll
+/Users/vheyer/Documents/GB/CSharp_Seminar5/Task31/obj/Debug/net7.0/refint/Task31.dll
+/Users/vheyer/Documents/GB/CSharp_Seminar5/Task31/obj/Debug/net7.0/Task31.pdb
+/Users/vheyer/Documents/GB/CSharp_Seminar5/Task31/obj/Debug/net7.0/Task31.genruntimeconfig.cache
+/Users/vheyer/Documents/GB/CSharp_Seminar5/Task31/obj/Debug/net7.0/ref/Task31.dll
