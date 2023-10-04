@@ -1,0 +1,14 @@
+/Users/vheyer/Documents/GB/CSharp_Sem5_ДЗ/Task34/bin/Debug/net7.0/Task34
+/Users/vheyer/Documents/GB/CSharp_Sem5_ДЗ/Task34/bin/Debug/net7.0/Task34.deps.json
+/Users/vheyer/Documents/GB/CSharp_Sem5_ДЗ/Task34/bin/Debug/net7.0/Task34.runtimeconfig.json
+/Users/vheyer/Documents/GB/CSharp_Sem5_ДЗ/Task34/bin/Debug/net7.0/Task34.dll
+/Users/vheyer/Documents/GB/CSharp_Sem5_ДЗ/Task34/bin/Debug/net7.0/Task34.pdb
+/Users/vheyer/Documents/GB/CSharp_Sem5_ДЗ/Task34/obj/Debug/net7.0/Task34.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vheyer/Documents/GB/CSharp_Sem5_ДЗ/Task34/obj/Debug/net7.0/Task34.AssemblyInfoInputs.cache
+/Users/vheyer/Documents/GB/CSharp_Sem5_ДЗ/Task34/obj/Debug/net7.0/Task34.AssemblyInfo.cs
+/Users/vheyer/Documents/GB/CSharp_Sem5_ДЗ/Task34/obj/Debug/net7.0/Task34.csproj.CoreCompileInputs.cache
+/Users/vheyer/Documents/GB/CSharp_Sem5_ДЗ/Task34/obj/Debug/net7.0/Task34.dll
+/Users/vheyer/Documents/GB/CSharp_Sem5_ДЗ/Task34/obj/Debug/net7.0/refint/Task34.dll
+/Users/vheyer/Documents/GB/CSharp_Sem5_ДЗ/Task34/obj/Debug/net7.0/Task34.pdb
+/Users/vheyer/Documents/GB/CSharp_Sem5_ДЗ/Task34/obj/Debug/net7.0/Task34.genruntimeconfig.cache
+/Users/vheyer/Documents/GB/CSharp_Sem5_ДЗ/Task34/obj/Debug/net7.0/ref/Task34.dll
