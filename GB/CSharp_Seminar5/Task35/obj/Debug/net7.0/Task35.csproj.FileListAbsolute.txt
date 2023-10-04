@@ -1,0 +1,14 @@
+/Users/vheyer/Documents/GB/CSharp_Seminar5/Task35/bin/Debug/net7.0/Task35
+/Users/vheyer/Documents/GB/CSharp_Seminar5/Task35/bin/Debug/net7.0/Task35.deps.json
+/Users/vheyer/Documents/GB/CSharp_Seminar5/Task35/bin/Debug/net7.0/Task35.runtimeconfig.json
+/Users/vheyer/Documents/GB/CSharp_Seminar5/Task35/bin/Debug/net7.0/Task35.dll
+/Users/vheyer/Documents/GB/CSharp_Seminar5/Task35/bin/Debug/net7.0/Task35.pdb
+/Users/vheyer/Documents/GB/CSharp_Seminar5/Task35/obj/Debug/net7.0/Task35.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vheyer/Documents/GB/CSharp_Seminar5/Task35/obj/Debug/net7.0/Task35.AssemblyInfoInputs.cache
+/Users/vheyer/Documents/GB/CSharp_Seminar5/Task35/obj/Debug/net7.0/Task35.AssemblyInfo.cs
+/Users/vheyer/Documents/GB/CSharp_Seminar5/Task35/obj/Debug/net7.0/Task35.csproj.CoreCompileInputs.cache
+/Users/vheyer/Documents/GB/CSharp_Seminar5/Task35/obj/Debug/net7.0/Task35.dll
+/Users/vheyer/Documents/GB/CSharp_Seminar5/Task35/obj/Debug/net7.0/refint/Task35.dll
+/Users/vheyer/Documents/GB/CSharp_Seminar5/Task35/obj/Debug/net7.0/Task35.pdb
+/Users/vheyer/Documents/GB/CSharp_Seminar5/Task35/obj/Debug/net7.0/Task35.genruntimeconfig.cache
+/Users/vheyer/Documents/GB/CSharp_Seminar5/Task35/obj/Debug/net7.0/ref/Task35.dll
