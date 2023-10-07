@@ -1,0 +1,14 @@
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task39/bin/Debug/net7.0/Task39
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task39/bin/Debug/net7.0/Task39.deps.json
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task39/bin/Debug/net7.0/Task39.runtimeconfig.json
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task39/bin/Debug/net7.0/Task39.dll
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task39/bin/Debug/net7.0/Task39.pdb
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task39/obj/Debug/net7.0/Task39.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task39/obj/Debug/net7.0/Task39.AssemblyInfoInputs.cache
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task39/obj/Debug/net7.0/Task39.AssemblyInfo.cs
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task39/obj/Debug/net7.0/Task39.csproj.CoreCompileInputs.cache
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task39/obj/Debug/net7.0/Task39.dll
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task39/obj/Debug/net7.0/refint/Task39.dll
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task39/obj/Debug/net7.0/Task39.pdb
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task39/obj/Debug/net7.0/Task39.genruntimeconfig.cache
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task39/obj/Debug/net7.0/ref/Task39.dll
