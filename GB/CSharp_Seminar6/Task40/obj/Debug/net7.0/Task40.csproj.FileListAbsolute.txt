@@ -1,0 +1,14 @@
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task40/bin/Debug/net7.0/Task40
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task40/bin/Debug/net7.0/Task40.deps.json
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task40/bin/Debug/net7.0/Task40.runtimeconfig.json
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task40/bin/Debug/net7.0/Task40.dll
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task40/bin/Debug/net7.0/Task40.pdb
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task40/obj/Debug/net7.0/Task40.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task40/obj/Debug/net7.0/Task40.AssemblyInfoInputs.cache
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task40/obj/Debug/net7.0/Task40.AssemblyInfo.cs
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task40/obj/Debug/net7.0/Task40.csproj.CoreCompileInputs.cache
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task40/obj/Debug/net7.0/Task40.dll
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task40/obj/Debug/net7.0/refint/Task40.dll
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task40/obj/Debug/net7.0/Task40.pdb
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task40/obj/Debug/net7.0/Task40.genruntimeconfig.cache
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task40/obj/Debug/net7.0/ref/Task40.dll
