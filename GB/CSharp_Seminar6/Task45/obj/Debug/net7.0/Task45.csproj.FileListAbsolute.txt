@@ -1,0 +1,14 @@
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task45/bin/Debug/net7.0/Task45
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task45/bin/Debug/net7.0/Task45.deps.json
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task45/bin/Debug/net7.0/Task45.runtimeconfig.json
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task45/bin/Debug/net7.0/Task45.dll
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task45/bin/Debug/net7.0/Task45.pdb
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task45/obj/Debug/net7.0/Task45.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task45/obj/Debug/net7.0/Task45.AssemblyInfoInputs.cache
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task45/obj/Debug/net7.0/Task45.AssemblyInfo.cs
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task45/obj/Debug/net7.0/Task45.csproj.CoreCompileInputs.cache
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task45/obj/Debug/net7.0/Task45.dll
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task45/obj/Debug/net7.0/refint/Task45.dll
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task45/obj/Debug/net7.0/Task45.pdb
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task45/obj/Debug/net7.0/Task45.genruntimeconfig.cache
+/Users/vheyer/Documents/GB/CSharp_Seminar6/Task45/obj/Debug/net7.0/ref/Task45.dll
